@@ -1,0 +1,42 @@
+[
+  {
+    "patient_id": 1,
+    "doctor_id": 1,
+    "date": "2025-01-10",
+    "time": "10:00",
+    "reason": "Routine BP checkup",
+    "status": "completed",
+    "appointment_id": 1,
+    "created_at": "2026-07-27T23:21:25.673190"
+  },
+  {
+    "patient_id": 2,
+    "doctor_id": 1,
+    "date": "2025-01-15",
+    "time": "11:00",
+    "reason": "Chest discomfort follow-up",
+    "status": "completed",
+    "appointment_id": 2,
+    "created_at": "2026-07-27T23:21:25.673371"
+  },
+  {
+    "patient_id": 7,
+    "doctor_id": 2,
+    "date": "2025-01-12",
+    "time": "14:00",
+    "reason": "Joint pain evaluation",
+    "status": "completed",
+    "appointment_id": 3,
+    "created_at": "2026-07-27T23:21:25.673484"
+  },
+  {
+    "patient_id": 5,
+    "doctor_id": 6,
+    "date": "2025-01-08",
+    "time": "09:00",
+    "reason": "General checkup",
+    "status": "completed",
+    "appointment_id": 4,
+    "created_at": "2026-07-27T23:21:25.673606"
+  }
+]

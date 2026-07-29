@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Paracetamol",
+    "description": "Pain reliever and fever reducer",
+    "category": "Analgesic",
+    "stock": 100,
+    "reorder_level": 20,
+    "price": 2.5,
+    "med_id": 1
+  },
+  {
+    "name": "Amoxicillin",
+    "description": "Antibiotic for bacterial infections",
+    "category": "Antibiotic",
+    "stock": 50,
+    "reorder_level": 15,
+    "price": 5.0,
+    "med_id": 2
+  },
+  {
+    "name": "Ibuprofen",
+    "description": "Anti-inflammatory pain reliever",
+    "category": "NSAID",
+    "stock": 8,
+    "reorder_level": 10,
+    "price": 3.0,
+    "med_id": 3
+  },
+  {
+    "name": "Amlodipine",
+    "description": "Used to treat high blood pressure",
+    "category": "Antihypertensive",
+    "stock": 40,
+    "reorder_level": 10,
+    "price": 4.2,
+    "med_id": 4
+  },
+  {
+    "name": "Atorvastatin",
+    "description": "Lowers cholesterol, reduces heart disease risk",
+    "category": "Statin",
+    "stock": 35,
+    "reorder_level": 10,
+    "price": 6.0,
+    "med_id": 5
+  },
+  {
+    "name": "Metformin",
+    "description": "Used to control blood sugar in type 2 diabetes",
+    "category": "Antidiabetic",
+    "stock": 60,
+    "reorder_level": 15,
+    "price": 3.8,
+    "med_id": 6
+  }
+]

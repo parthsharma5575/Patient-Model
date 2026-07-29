@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Kabir Singh",
+    "role": "Nurse",
+    "department": "General",
+    "shift": "Morning",
+    "contact": "8880001111",
+    "staff_id": 1
+  },
+  {
+    "name": "Meena Joshi",
+    "role": "Pharmacist",
+    "department": "Pharmacy",
+    "shift": "Evening",
+    "contact": "8880002222",
+    "staff_id": 2
+  },
+  {
+    "name": "Ajay Verma",
+    "role": "Receptionist",
+    "department": "Front Desk",
+    "shift": "Morning",
+    "contact": "8880003333",
+    "staff_id": 3
+  },
+  {
+    "name": "Divya Reddy",
+    "role": "Lab Technician",
+    "department": "Pathology",
+    "shift": "Night",
+    "contact": "8880004444",
+    "staff_id": 4
+  }
+]

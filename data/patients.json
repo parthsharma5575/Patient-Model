@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Ravi Kumar",
+    "age": 34,
+    "gender": "Male",
+    "contact": "7770001111",
+    "medical_history": "Hypertension",
+    "allergies": "None",
+    "blood_group": "B+",
+    "patient_id": 1,
+    "created_at": "2026-07-27T23:21:25.480058"
+  },
+  {
+    "name": "Sneha Gupta",
+    "age": 28,
+    "gender": "Female",
+    "contact": "7770002222",
+    "medical_history": "None",
+    "allergies": "Penicillin",
+    "blood_group": "O+",
+    "patient_id": 2,
+    "created_at": "2026-07-27T23:21:25.504142"
+  },
+  {
+    "name": "Arjun Verma",
+    "age": 45,
+    "gender": "Male",
+    "contact": "7770003333",
+    "medical_history": "Type 2 Diabetes",
+    "allergies": "None",
+    "blood_group": "A+",
+    "patient_id": 3,
+    "created_at": "2026-07-27T23:21:25.515737"
+  },
+  {
+    "name": "Pooja Singh",
+    "age": 30,
+    "gender": "Female",
+    "contact": "7770004444",
+    "medical_history": "Asthma",
+    "allergies": "Dust",
+    "blood_group": "AB+",
+    "patient_id": 4,
+    "created_at": "2026-07-27T23:21:25.525520"
+  },
+  {
+    "name": "Rahul Nair",
+    "age": 52,
+    "gender": "Male",
+    "contact": "7770005555",
+    "medical_history": "Coronary artery disease",
+    "allergies": "None",
+    "blood_group": "B-",
+    "patient_id": 5,
+    "created_at": "2026-07-27T23:21:25.536031"
+  },
+  {
+    "name": "Anjali Desai",
+    "age": 24,
+    "gender": "Female",
+    "contact": "7770006666",
+    "medical_history": "None",
+    "allergies": "None",
+    "blood_group": "O-",
+    "patient_id": 6,
+    "created_at": "2026-07-27T23:21:25.547136"
+  },
+  {
+    "name": "Vikas Malhotra",
+    "age": 60,
+    "gender": "Male",
+    "contact": "7770007777",
+    "medical_history": "Arthritis, Hypertension",
+    "allergies": "Aspirin",
+    "blood_group": "A-",
+    "patient_id": 7,
+    "created_at": "2026-07-27T23:21:25.559288"
+  },
+  {
+    "name": "Neha Kapoor",
+    "age": 19,
+    "gender": "Female",
+    "contact": "7770008888",
+    "medical_history": "None",
+    "allergies": "Peanuts",
+    "blood_group": "B+",
+    "patient_id": 8,
+    "created_at": "2026-07-27T23:21:25.571990"
+  }
+]

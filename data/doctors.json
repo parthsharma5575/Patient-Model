@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Anita Sharma",
+    "speciality": "Cardiology",
+    "department": "Cardiology",
+    "experience": 12,
+    "available_days": "Mon-Fri",
+    "working_hours": "09:00-17:00",
+    "contact": "9990001111",
+    "doctor_id": 1
+  },
+  {
+    "name": "Rohan Mehta",
+    "speciality": "Orthopedics",
+    "department": "Orthopedics",
+    "experience": 8,
+    "available_days": "Mon-Sat",
+    "working_hours": "10:00-18:00",
+    "contact": "9990002222",
+    "doctor_id": 2
+  },
+  {
+    "name": "Priya Nair",
+    "speciality": "Pediatrics",
+    "department": "Pediatrics",
+    "experience": 6,
+    "available_days": "Tue-Sun",
+    "working_hours": "09:00-15:00",
+    "contact": "9990003333",
+    "doctor_id": 3
+  },
+  {
+    "name": "Vikram Rao",
+    "speciality": "Neurology",
+    "department": "Neurology",
+    "experience": 15,
+    "available_days": "Mon-Fri",
+    "working_hours": "11:00-19:00",
+    "contact": "9990004444",
+    "doctor_id": 4
+  },
+  {
+    "name": "Kavita Iyer",
+    "speciality": "Dermatology",
+    "department": "Dermatology",
+    "experience": 5,
+    "available_days": "Wed-Sun",
+    "working_hours": "10:00-16:00",
+    "contact": "9990005555",
+    "doctor_id": 5
+  },
+  {
+    "name": "Suresh Patel",
+    "speciality": "General Medicine",
+    "department": "General",
+    "experience": 20,
+    "available_days": "Mon-Sat",
+    "working_hours": "08:00-14:00",
+    "contact": "9990006666",
+    "doctor_id": 6
+  }
+]

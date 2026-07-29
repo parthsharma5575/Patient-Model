@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Farhan Ali",
+    "age": 41,
+    "gender": "Male",
+    "contact": "7770009999",
+    "medical_history": "High cholesterol",
+    "allergies": "None",
+    "blood_group": "O+"
+  },
+  {
+    "name": "Ritu Bansal",
+    "age": 36,
+    "gender": "Female",
+    "contact": "7770010000",
+    "medical_history": "Migraine",
+    "allergies": "Sulfa drugs",
+    "blood_group": "AB-"
+  }
+]

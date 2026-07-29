@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Losartan",
+    "description": "Angiotensin receptor blocker for high blood pressure and heart protection",
+    "category": "Antihypertensive",
+    "stock": 45,
+    "reorder_level": 12,
+    "price": 4.5
+  },
+  {
+    "name": "Aspirin",
+    "description": "Blood thinner, reduces risk of heart attack and stroke",
+    "category": "Antiplatelet",
+    "stock": 5,
+    "reorder_level": 15,
+    "price": 1.8
+  },
+  {
+    "name": "Cetirizine",
+    "description": "Antihistamine for allergy relief",
+    "category": "Antihistamine",
+    "stock": 70,
+    "reorder_level": 20,
+    "price": 2.0
+  }
+]
